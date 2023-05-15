@@ -5,7 +5,7 @@
 Online Banking
 This is a README file for online banking.
 
-Features
+Features:
 View account balances
 Transfer money between accounts
 Pay bills
@@ -14,7 +14,7 @@ Set up direct deposit
 View transaction history
 Report lost or stolen cards
 Contact customer service
-Requirements
+Requirements:
 A computer with an internet connection
 A web browser
 A bank account
@@ -24,7 +24,7 @@ Go to the bank's website.
 Click on the "Online Banking" link.
 Enter your username and password.
 Click on the "Login" button.
-Usage
+Usage:
 To view your account balances, click on the "Account Summary" link.
 To transfer money between accounts, click on the "Transfer Funds" link.
 To pay bills, click on the "Bill Pay" link.
