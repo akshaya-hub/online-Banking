@@ -26,7 +26,7 @@ Enter your username and password.
 Click on the "Login" button.
 Usage:
 To view your account balances, click on the "Account Summary" link.
-To transfer money between accounts, click on the "Transfer Funds" link.
+To transfer  between accounts, click on the "Transfer Funds" link.
 To pay bills, click on the "Bill Pay" link.
 To deposit checks, click on the "Deposit Checks" link.
 To set up direct deposit, click on the "Direct Deposit" link.
